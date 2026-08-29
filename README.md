@@ -9,6 +9,8 @@
 - SDLC & STLC
 - Regression, Smoke & Sanity Testing
 - Mobile & Web Testing
+- SQL
+- Jmeter
 
  Currently learning:
 - Selenium with Java
