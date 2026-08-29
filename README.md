@@ -1,6 +1,6 @@
 # Hi, I'm Afsha Hussain 
 
- QA Engineer with 1.4 years of experience in Manual Software Testing
+ QA Engineer with 1.7 years of experience in Manual Software Testing
 
 🔍 Skilled in:
 - Manual Testing
